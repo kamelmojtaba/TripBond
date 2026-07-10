@@ -1,0 +1,2 @@
+C:/Users/Ghala/Downloads/TripBond/android/app/.cxx/Debug/32l4a2wk/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Ghala/Downloads/TripBond/android/app/.cxx/Debug/32l4a2wk/x86_64/CMakeFiles/rebuild_cache.dir

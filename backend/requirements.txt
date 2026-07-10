@@ -1,0 +1,27 @@
+# FastAPI and server
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+
+# Supabase client
+supabase==2.10.0
+
+# Environment variables
+python-dotenv==1.0.0
+
+# HTTP requests (compatible with supabase and used for Google Places API)
+httpx==0.27.2
+requests==2.31.0
+
+# Pydantic for data validation
+pydantic==2.5.3
+pydantic-settings==2.1.0
+email-validator==2.3.0
+
+# Password hashing and JWT tokens
+bcrypt==4.1.2
+PyJWT==2.10.1
+
+# Data processing (for AI POI recommendations)
+pandas==2.0.3
+numpy==1.24.3
